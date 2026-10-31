@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bit Manipulation
 |  |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3665-twisted-mirror-path-count) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
