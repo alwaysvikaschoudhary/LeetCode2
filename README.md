@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Graph Theory
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3665-twisted-mirror-path-count) |
+## Math
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
