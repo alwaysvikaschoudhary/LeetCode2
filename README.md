@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3665-twisted-mirror-path-count) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/2409-count-days-spent-together) |
 ## Sorting
