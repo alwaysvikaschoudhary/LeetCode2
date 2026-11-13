@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/1254-number-of-closed-islands) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3644-maximum-k-to-sort-a-permutation) |
