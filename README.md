@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/1254-number-of-closed-islands) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
