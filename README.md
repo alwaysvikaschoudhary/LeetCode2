@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
