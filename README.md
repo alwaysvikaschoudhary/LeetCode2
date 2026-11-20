@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/1254-number-of-closed-islands) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/alwaysvikaschoudhary/LeetCode2/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Breadth-First Search
 |  |
 | ------- |
